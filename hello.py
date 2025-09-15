@@ -1,4 +1,5 @@
 # Lab 01
 print("Hello World")
-name=input("Enter your name ")
-print("Hello " + name)
+name1=input("Enter your First name ")
+name2=input("Enter your Second name ")
+print("Hello " + name1 + " " + name2)
